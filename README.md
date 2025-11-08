@@ -1,27 +1,38 @@
-# 👋 Hi there, I'm Emely!
+# 👋 Hi there, I’m Emely
 
-🎓 I'm currently studying **Cyber Security (B.Sc.)** at IU International University (3rd semester) and expanding my knowledge through platforms like Coursera – with a strong focus on **ethical hacking**, **penetration testing**, and **IT security**.
+I’m a Cyber Security (B.Sc.) student with a growing focus on IT Security, Digital Forensics, and Game Design.
+I enjoy understanding how systems work, finding vulnerabilities, and exploring creative ways to combine security and technology.
 
-🛠️ I love working with different operating systems (Windows, macOS, Linux) and enjoy learning how systems work – and how to secure them. I'm especially comfortable with **Kali Linux** and **Arch Linux**.
+My current projects and studies revolve around topics like network and system security, incident analysis, and developing small tools and scripts in Python to support investigations or testing environments.
+I’m also learning to design and prototype games, applying logic and problem-solving skills from my security background.
 
-🔍 My long-term goal: To become a professional **Penetration Tester** or **Cyber Security Analyst**, helping companies stay one step ahead of digital threats.
 
-🚀 Currently learning:
-- Network security & vulnerability scanning
-- Python scripting for automation
-- CEH certification basics
-- Exploitation techniques in test labs
+🧠 Current focus
 
-🧰 Tools & Technologies:
-- `Kali Linux`, `nmap`, `Burp Suite`, `Wireshark`, `Metasploit`
-- `Python`, `Bash`, `Java`
-- `VirtualBox`, `Docker`, `Git`
+Penetration testing and system hardening
 
-📚 Selected Projects (more coming soon!):
-- 🕵️‍♀️ TryHackMe / HackTheBox CTF writeups
-- 🛡️ Security automation scripts (Python/Bash)
-- 🧪 Simple vulnerable web app for testing
-- 📘 Learning notes on ISO 27001 & risk analysis
+Digital forensics & evidence handling
+
+Python scripting for security use cases
+
+Swift & Xcode for game development
+
+
+🌱 Goals
+
+I aim to deepen my technical understanding of security and forensics, expand my hands-on experience through personal projects, and eventually contribute to professional environments that value curiosity, creativity, and precision.
+
+
+💻 Projects
+Here are a few areas I’m currently exploring or working on:
+
+🔍 Forensic Case Study – analyzing digital evidence and reporting findings
+
+🧰 Python Security Tools – small utilities for scanning, parsing logs, or monitoring network activity
+
+🕹️ Study & Focus App (iOS) – a minimal timer app inspired by StudyBunny, built with Swift
+
+🧠 Learning Lab – experimenting with virtual machines, Arch Linux, and different security tools
 
 ---
 
