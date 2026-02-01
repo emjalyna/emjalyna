@@ -1,47 +1,33 @@
-# 👋 Hi there, I’m Emely
+# 👋 Hi, I’m Emely
 
-I’m a Cyber Security (B.Sc.) student with a growing focus on IT Security, Digital Forensics, and Game Design.
-I enjoy understanding how systems work, finding vulnerabilities, and exploring creative ways to combine security and technology.
+I’m currently a Cyber Security (B.Sc.) student exploring different paths within and beyond IT.
 
-My current projects and studies revolve around topics like network and system security, incident analysis, and developing small tools and scripts in Python to support investigations or testing environments.
-I’m also learning to design and prototype games, applying logic and problem-solving skills from my security background.
-
-
-🧠 Current focus
-
-Penetration testing and system hardening
-
-Digital forensics & evidence handling
-
-Python scripting for security use cases
-
-Swift & Xcode for game development
-
-
-🌱 Goals
-
-I aim to deepen my technical understanding of security and forensics, expand my hands-on experience through personal projects, and eventually contribute to professional environments that value curiosity, creativity, and precision.
-
-
-💻 Projects
-Here are a few areas I’m currently exploring or working on:
-
-🔍 Forensic Case Study – analyzing digital evidence and reporting findings
-
-🧰 Python Security Tools – small utilities for scanning, parsing logs, or monitoring network activity
-
-🕹️ Study & Focus App (iOS) – a minimal timer app inspired by StudyBunny, built with Swift
-
-🧠 Learning Lab – experimenting with virtual machines, Arch Linux, and different security tools
+I’m interested in understanding how systems work, how technology impacts people, and where my skills and curiosity fit best long-term.  
+Right now, I’m focusing less on building projects and more on learning, reflecting, and gaining clarity about my future direction.
 
 ---
 
-📫 **Let's connect!**  
-Feel free to reach out via [LinkedIn](www.linkedin.com/in/emely-zschach) or check out my repos below 🚀
+## 🌱 Current focus
 
-> *“Security is not a product, but a process.” – Bruce Schneier*
+- Studying Cyber Security fundamentals  
+- Exploring topics like systems, security, and digital technologies  
+- Reflecting on long-term career paths (inside or outside of IT)  
+- Building a solid theoretical foundation before committing to a specialization
 
-<!---
-emjalyna/emjalyna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🎯 What matters to me
+
+I value curiosity, clarity, and depth over rushing into a predefined role.  
+Rather than forcing myself into a niche too early, I want to understand my strengths and interests properly before moving forward.
+
+---
+
+## 🔗 Let’s connect
+
+Feel free to connect with me on  
+👉 [LinkedIn](https://www.linkedin.com/in/emely-zschach)
+
+---
+
+> *“Security is not a product, but a process.”* – Bruce Schneier
