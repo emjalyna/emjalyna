@@ -37,7 +37,7 @@ Here are a few areas I’m currently exploring or working on:
 ---
 
 📫 **Let's connect!**  
-Feel free to reach out via [LinkedIn](www.linkedin.com/in/emely-zschach-758217277) or check out my repos below 🚀
+Feel free to reach out via [LinkedIn](www.linkedin.com/in/emely-zschach) or check out my repos below 🚀
 
 > *“Security is not a product, but a process.” – Bruce Schneier*
 
